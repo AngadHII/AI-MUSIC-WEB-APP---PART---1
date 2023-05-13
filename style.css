@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    color: blue;
+    font-size: 30px;
+    margin: 0px;
+    font-family: "papyrus", fantasy;
+    background-color: aqua;
+    }
+
+    .note{
+        font-size: 15px;
+        color: black;
+        font-family: cursive;
+        }
+
+#song_name_div{
+    margin-top: 50px;
+}
+
+.song_name{
+    font-family: cursive;
+    font-size: 23px;
+    color: blue;
+}
